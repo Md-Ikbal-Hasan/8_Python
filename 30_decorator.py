@@ -29,8 +29,7 @@ def decorator_divide(func):
         print(f'divide {a} and {b}')
         if b==0:
             return "zero division error"
-
-
+            
         return a/b
 
     return wrapper_func

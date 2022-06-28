@@ -7,12 +7,12 @@ print("My name is ",name ,"I am ",age," years old and I am a ",student)
 print("\n")
 '''
 
-"""
+
 name2 = input("Your name: ")
 color  = input("Your favourite color : ")
-print(name," Likes ",color)
+print(name2," Likes ",color)
 print("\n")
-"""
+
 
 '''
 x = input("Enter 1st number: ")
